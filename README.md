@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1f4b,100:24449a&height=200&section=header&text=St%C3%A9phane%20Jambu&fontColor=ffffff&fontSize=52&desc=Ing%C3%A9nieur%20SEO%20%26%20GEO%20%C2%B7%20Industrialisation%20du%20contenu%20%C2%B7%20AI%20Search&descSize=18&descAlignY=62" alt="Stéphane Jambu — Ingénieur SEO & GEO" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bambuk-sjambu/bambuk-sjambu/master/banner.png" alt="Stéphane Jambu — Ingénieur SEO & GEO" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/stephane-jambu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,9 +15,18 @@ Ingénieur **SEO depuis 2009** et **e-commerçant depuis 1999** — la double vi
 
 Aujourd'hui je travaille la visibilité des marques dans les **moteurs IA** (ChatGPT, Perplexity, Claude, Gemini) : le **GEO / AI Search**. J'applique les **neurosciences (DOSE)** au SEO, au CRO et aux interfaces — là où les autres voient des mots-clés, je vois le cerveau de l'acheteur.
 
-Basé à **Siem Reap (Cambodge)** depuis 2025. **650+ clients servis · 80 témoignages LinkedIn.**
+Basé à **Siem Reap (Cambodge)** depuis 2025.
 
 > Je ne vends jamais, je démontre. Premier appel = audit live de votre site.
+
+## Chiffres clés
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SEO%20depuis-2009-0f1f4b?style=for-the-badge" alt="SEO depuis 2009" />
+  <img src="https://img.shields.io/badge/Cocons%20s%C3%A9mantiques-1%E2%80%89300%2B-24449a?style=for-the-badge" alt="1300+ cocons" />
+  <img src="https://img.shields.io/badge/Clients%20servis-650%2B-24449a?style=for-the-badge" alt="650+ clients" />
+  <img src="https://img.shields.io/badge/T%C3%A9moignages%20LinkedIn-80-FFCC00?style=for-the-badge&labelColor=0f1f4b" alt="80 témoignages" />
+</p>
 
 ## Ce que je fais
 
@@ -28,6 +39,10 @@ Basé à **Siem Reap (Cambodge)** depuis 2025. **650+ clients servis · 80 témo
 | 💻 | **Vibe coding e-commerce** | Outils sur-mesure, plugins WordPress, dashboards |
 | 📊 | **Forecasting SEO** | EQOS Forecast — modélisation du potentiel organique |
 
+## Secteurs accompagnés
+
+`E-commerce` · `B2B / SaaS` · `Santé` · `Luxe` · `Formation / EdTech` · `Commerce local`
+
 ## Stack & outillage
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -38,13 +53,6 @@ Basé à **Siem Reap (Cambodge)** depuis 2025. **650+ clients servis · 80 témo
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-## En chiffres
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bambuk-sjambu&show_icons=true&hide_border=true&title_color=0f1f4b&icon_color=FFCC00&include_all_commits=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bambuk-sjambu&layout=compact&hide_border=true&title_color=0f1f4b&langs_count=8" alt="Top langages" height="165" />
-</p>
 
 ## Retrouvez-moi
 
