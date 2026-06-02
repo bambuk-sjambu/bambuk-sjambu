@@ -19,15 +19,6 @@ Basé à **Siem Reap (Cambodge)** depuis 2025.
 
 > Je ne vends jamais, je démontre. Premier appel = audit live de votre site.
 
-## Chiffres clés
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SEO%20depuis-2009-0f1f4b?style=for-the-badge" alt="SEO depuis 2009" />
-  <img src="https://img.shields.io/badge/Cocons%20s%C3%A9mantiques-1%E2%80%89300%2B-24449a?style=for-the-badge" alt="1300+ cocons" />
-  <img src="https://img.shields.io/badge/Clients%20servis-650%2B-24449a?style=for-the-badge" alt="650+ clients" />
-  <img src="https://img.shields.io/badge/T%C3%A9moignages%20LinkedIn-80-FFCC00?style=for-the-badge&labelColor=0f1f4b" alt="80 témoignages" />
-</p>
-
 ## Ce que je fais
 
 | | Domaine | En clair |
