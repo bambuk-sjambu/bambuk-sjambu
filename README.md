@@ -28,17 +28,6 @@ Basé à **Siem Reap (Cambodge)** depuis 2025. **650+ clients servis · 80 témo
 | 💻 | **Vibe coding e-commerce** | Outils sur-mesure, plugins WordPress, dashboards |
 | 📊 | **Forecasting SEO** | EQOS Forecast — modélisation du potentiel organique |
 
-## Projets open source
-
-| Projet | Description |
-|---|---|
-| [awesome-seo](https://github.com/bambuk-sjambu/awesome-seo) | Liste curatée de ressources SEO |
-| [awesome-ai-seo](https://github.com/bambuk-sjambu/awesome-ai-seo) | Outils et ressources marketing IA |
-| [awesome-cocon-semantique](https://github.com/bambuk-sjambu/awesome-cocon-semantique) | Tout sur le cocon sémantique |
-| [awesome-content-marketing](https://github.com/bambuk-sjambu/awesome-content-marketing) | Outils, plateformes et stratégies de content marketing |
-| [linkedin-cleaner](https://github.com/bambuk-sjambu/linkedin-cleaner) | Nettoyer ses relations LinkedIn avec l'IA (Claude + Playwright) |
-| [veilleformation](https://github.com/bambuk-sjambu/veilleformation) | Veille réglementaire automatisée par IA pour les organismes de formation |
-
 ## Stack & outillage
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
